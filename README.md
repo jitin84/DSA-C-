@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jitin84/DSA-C-/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jitin84/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jitin84/DSA-C-/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
 |  |
@@ -38,4 +40,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
