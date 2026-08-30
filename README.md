@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/jitin84/DSA-C-/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jitin84/DSA-C-/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
