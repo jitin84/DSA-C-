@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jitin84/DSA-C-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jitin84/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Two Pointers
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
