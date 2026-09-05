@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/jitin84/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
