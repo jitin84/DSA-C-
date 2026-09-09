@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/jitin84/DSA-C-/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jitin84/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
+| [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Two Pointers
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
