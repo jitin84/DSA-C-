@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/jitin84/DSA-C-/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/jitin84/DSA-C-/tree/master/0326-power-of-three) |
+| [0483-smallest-good-base](https://github.com/jitin84/DSA-C-/tree/master/0483-smallest-good-base) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jitin84/DSA-C-/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jitin84/DSA-C-/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0483-smallest-good-base](https://github.com/jitin84/DSA-C-/tree/master/0483-smallest-good-base) |
 <!---LeetCode Topics End-->
