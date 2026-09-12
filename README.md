@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jitin84/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jitin84/DSA-C-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jitin84/DSA-C-/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/jitin84/DSA-C-/tree/master/0326-power-of-three) |
 | [0483-smallest-good-base](https://github.com/jitin84/DSA-C-/tree/master/0483-smallest-good-base) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jitin84/DSA-C-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jitin84/DSA-C-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -144,5 +148,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0483-smallest-good-base](https://github.com/jitin84/DSA-C-/tree/master/0483-smallest-good-base) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
