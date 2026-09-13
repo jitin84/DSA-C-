@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/jitin84/DSA-C-/tree/master/0326-power-of-three) |
+| [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/jitin84/DSA-C-/tree/master/0483-smallest-good-base) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jitin84/DSA-C-/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
+| [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 ## Manacher
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
