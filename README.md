@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/jitin84/DSA-C-/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/jitin84/DSA-C-/tree/master/0483-smallest-good-base) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jitin84/DSA-C-/tree/master/2119-a-number-after-a-double-reversal) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Two Pointers
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jitin84/DSA-C-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
