@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jitin84/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
 | [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jitin84/DSA-C-/tree/master/0326-power-of-three) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/jitin84/DSA-C-/tree/master/0464-can-i-win) |
