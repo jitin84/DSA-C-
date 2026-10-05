@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jitin84/DSA-C-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jitin84/DSA-C-/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/jitin84/DSA-C-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jitin84/DSA-C-/tree/master/0191-number-of-1-bits) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jitin84/DSA-C-/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
 ## Breadth-First Search
 |  |
