@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jitin84/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jitin84/DSA-C-/tree/master/0014-longest-common-prefix) |
+| [0065-valid-number](https://github.com/jitin84/DSA-C-/tree/master/0065-valid-number) |
 | [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
