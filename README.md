@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jitin84/DSA-C-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jitin84/DSA-C-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jitin84/DSA-C-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/jitin84/DSA-C-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jitin84/DSA-C-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/jitin84/DSA-C-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jitin84/DSA-C-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/jitin84/DSA-C-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jitin84/DSA-C-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
