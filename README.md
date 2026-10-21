@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jitin84/DSA-C-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jitin84/DSA-C-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jitin84/DSA-C-/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/jitin84/DSA-C-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/jitin84/DSA-C-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/jitin84/DSA-C-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jitin84/DSA-C-/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/jitin84/DSA-C-/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 ## Math
