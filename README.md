@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jitin84/DSA-C-/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jitin84/DSA-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jitin84/DSA-C-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/jitin84/DSA-C-/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jitin84/DSA-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jitin84/DSA-C-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jitin84/DSA-C-/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 ## Combinatorics
 |  |
