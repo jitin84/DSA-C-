@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jitin84/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/jitin84/DSA-C-/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jitin84/DSA-C-/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/jitin84/DSA-C-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jitin84/DSA-C-/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/jitin84/DSA-C-/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/jitin84/DSA-C-/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jitin84/DSA-C-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jitin84/DSA-C-/tree/master/0090-subsets-ii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jitin84/DSA-C-/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/jitin84/DSA-C-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jitin84/DSA-C-/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
