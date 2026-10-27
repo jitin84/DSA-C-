@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jitin84/DSA-C-/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jitin84/DSA-C-/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/jitin84/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/jitin84/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/jitin84/DSA-C-/tree/master/0464-can-i-win) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jitin84/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/jitin84/DSA-C-/tree/master/0464-can-i-win) |
 ## Game Theory
 |  |
