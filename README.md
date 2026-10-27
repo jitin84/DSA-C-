@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jitin84/DSA-C-/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/jitin84/DSA-C-/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/jitin84/DSA-C-/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/jitin84/DSA-C-/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jitin84/DSA-C-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/jitin84/DSA-C-/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 ## Simulation
 |  |
