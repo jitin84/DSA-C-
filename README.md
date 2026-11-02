@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jitin84/DSA-C-/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/jitin84/DSA-C-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/jitin84/DSA-C-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jitin84/DSA-C-/tree/master/0090-subsets-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jitin84/DSA-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jitin84/DSA-C-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/jitin84/DSA-C-/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/jitin84/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/jitin84/DSA-C-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jitin84/DSA-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jitin84/DSA-C-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jitin84/DSA-C-/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/jitin84/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 ## Combinatorics
@@ -259,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/jitin84/DSA-C-/tree/master/0076-minimum-window-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jitin84/DSA-C-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jitin84/DSA-C-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
