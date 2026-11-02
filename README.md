@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jitin84/DSA-C-/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jitin84/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jitin84/DSA-C-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jitin84/DSA-C-/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/jitin84/DSA-C-/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jitin84/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/jitin84/DSA-C-/tree/master/0464-can-i-win) |
 | [0483-smallest-good-base](https://github.com/jitin84/DSA-C-/tree/master/0483-smallest-good-base) |
