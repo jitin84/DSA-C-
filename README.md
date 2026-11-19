@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jitin84/DSA-C-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/jitin84/DSA-C-/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/jitin84/DSA-C-/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jitin84/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jitin84/DSA-C-/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jitin84/DSA-C-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/jitin84/DSA-C-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/jitin84/DSA-C-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jitin84/DSA-C-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jitin84/DSA-C-/tree/master/0231-power-of-two) |
