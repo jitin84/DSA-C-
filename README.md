@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/jitin84/DSA-C-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/jitin84/DSA-C-/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/jitin84/DSA-C-/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/jitin84/DSA-C-/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/jitin84/DSA-C-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/jitin84/DSA-C-/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jitin84/DSA-C-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/jitin84/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/jitin84/DSA-C-/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/jitin84/DSA-C-/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/jitin84/DSA-C-/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/jitin84/DSA-C-/tree/master/0464-can-i-win) |
