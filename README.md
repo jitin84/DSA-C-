@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jitin84/DSA-C-/tree/master/0090-subsets-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitin84/DSA-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/jitin84/DSA-C-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jitin84/DSA-C-/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/jitin84/DSA-C-/tree/master/0204-count-primes) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/jitin84/DSA-C-/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitin84/DSA-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/jitin84/DSA-C-/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/jitin84/DSA-C-/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/jitin84/DSA-C-/tree/master/0279-perfect-squares) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jitin84/DSA-C-/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitin84/DSA-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
