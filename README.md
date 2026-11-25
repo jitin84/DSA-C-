@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jitin84/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jitin84/DSA-C-/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/jitin84/DSA-C-/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitin84/DSA-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jitin84/DSA-C-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/jitin84/DSA-C-/tree/master/0136-single-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/jitin84/DSA-C-/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/jitin84/DSA-C-/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitin84/DSA-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jitin84/DSA-C-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/jitin84/DSA-C-/tree/master/0131-palindrome-partitioning) |
