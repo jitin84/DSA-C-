@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jitin84/DSA-C-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jitin84/DSA-C-/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/jitin84/DSA-C-/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/jitin84/DSA-C-/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/jitin84/DSA-C-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jitin84/DSA-C-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jitin84/DSA-C-/tree/master/0078-subsets) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jitin84/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jitin84/DSA-C-/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/jitin84/DSA-C-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jitin84/DSA-C-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jitin84/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/jitin84/DSA-C-/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jitin84/DSA-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jitin84/DSA-C-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jitin84/DSA-C-/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/jitin84/DSA-C-/tree/master/0063-unique-paths-ii) |
 ## Algorithm X
 |  |
 | ------- |
